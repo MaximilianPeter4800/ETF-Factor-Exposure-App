@@ -88,6 +88,8 @@ install.packages(c( "shiny", "tidyverse", "lubridate", "quantmod", "broom", "zoo
 run the app
 shiny::runApp()
 
+Created with R version 4.3.2
+
 ### Disclaimer
 
 This tool is for educational and research purposes only. It does not constitute investment advice.
